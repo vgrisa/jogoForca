@@ -1,0 +1,8 @@
+C:\Users\Grisa\Desktop\Allog\C#\JogoForca\bin\Debug\JogoForca.exe.config
+C:\Users\Grisa\Desktop\Allog\C#\JogoForca\bin\Debug\JogoForca.exe
+C:\Users\Grisa\Desktop\Allog\C#\JogoForca\bin\Debug\JogoForca.pdb
+C:\Users\Grisa\Desktop\Allog\C#\JogoForca\obj\Debug\JogoForca.csproj.AssemblyReference.cache
+C:\Users\Grisa\Desktop\Allog\C#\JogoForca\obj\Debug\JogoForca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Grisa\Desktop\Allog\C#\JogoForca\obj\Debug\JogoForca.csproj.CoreCompileInputs.cache
+C:\Users\Grisa\Desktop\Allog\C#\JogoForca\obj\Debug\JogoForca.exe
+C:\Users\Grisa\Desktop\Allog\C#\JogoForca\obj\Debug\JogoForca.pdb
